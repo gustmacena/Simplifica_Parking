@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "# Simplifica_Parking" 
 =======
 # README - Sistema de Estacionamento
